@@ -1,6 +1,6 @@
 #  IoT Wall touch Socket 
 
-This is a hardware of Wall touch Socket with three channel out , one lighting sensor and one tempreture sensor
+This is a hardware of Wall touch Socket with three-channel output, one lighting sensor, and one temperature sensor
 This IoT product can control any 
 
 
