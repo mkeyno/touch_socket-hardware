@@ -1,6 +1,6 @@
 #  IoT Wall touch Socket 
 
-This is a hardware of Wall touch Socket with three channel , one lighting sensor and one tempreture sensor
+This is a hardware of Wall touch Socket with three channel out , one lighting sensor and one tempreture sensor
 This IoT product can control any 
 
 
@@ -10,15 +10,17 @@ This IoT product can control any
 
 ### HVAC system
 
+device in thr building (BMS)
 
 # Final product
-![Image](https://github.com/mkeyno/touch_socket-hardware/blob/master/update/final.jpg)
+
+<img src="update/final.jpg" width="800" height="650">
 
 # Prototype
+
 ![Image](https://github.com/mkeyno/touch_socket-hardware/blob/master/update/sb.jpg)
 
 # schematic
-
 
 ![Image](https://github.com/mkeyno/touch_socket-hardware/blob/master/update/sch.png)
 
