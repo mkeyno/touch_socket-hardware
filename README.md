@@ -25,8 +25,8 @@ device in thr building (BMS)
 ![Image](https://github.com/mkeyno/touch_socket-hardware/blob/master/update/sch.png)
 
 # PCB
-<img src="update/front.png" width="450" height="450">,,
-<img src="update/back.png" width="450" height="450">
+<img src="update/front.png" width="350" height="350">,,
+<img src="update/back.png" width="350" height="350">
 
 
 
